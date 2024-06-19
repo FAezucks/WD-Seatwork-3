@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/FAezucks/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/441/128/13a.jpg" alt="Nyebe" width="130" height="100">
   </a>
