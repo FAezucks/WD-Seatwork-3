@@ -26,8 +26,8 @@ header {
     font-size: 16px;
     cursor: pointer;
     border-radius: 50%;
-    width: 40px;
-    height: 40px;
+    width: 100px;
+    height: 100px;
   }
   
   .btn:hover {
