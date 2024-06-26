@@ -46,3 +46,44 @@ header {
       transform: scale(1);
     }
   }
+
+  header {
+    background-color: #1b0bca;
+    color: #d80d0d;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .btn {
+    background-color: #7a0303;
+    color: #530b9c;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .btn:hover {
+    animation: pulse 2s infinite;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
